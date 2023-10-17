@@ -3,6 +3,8 @@ import { RoomContext } from "../context/RoomContext";
 
 export const Join: React.FC = () => {
   const { ws } = useContext(RoomContext);
+  
+  // this will emit the message to our server that we want to join a room
   const createRoom = () => {
     ws.emit("create-room");
   };

@@ -10,7 +10,8 @@
     "build": "tsc",
     "watch": "tsc -w",
     "prestart": "yarn build",
-    "start": "concurrently --kill-others \"yarn watch\" \"nodemon .\""
+    "start": "nodemon .",
+    "dev": "concurrently --kill-others \"yarn watch\" \"yarn start\""
   },
   "devDependencies": {
     "concurrently": "^8.2.0",
@@ -23,6 +24,7 @@
     "@types/uuid": "^9.0.2",
     "cors": "^2.8.5",
     "express": "^4.18.2",
+    "prettier": "^3.0.3",
     "socket.io": "^4.7.2",
     "uuid": "^9.0.0"
   }
