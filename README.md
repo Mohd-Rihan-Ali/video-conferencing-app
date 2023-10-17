@@ -19,13 +19,12 @@ In today's world, video conferencing has become an essential part of our lives. 
 
 ## Features
 
-- **Real-time Video Conferencing:** Connect with others through high-quality video and audio calls.
-- **Chat Integration:** Send text messages to participants during a video call.
-- **Screen Sharing:** Share your screen to present slides, documents, or anything else.
-- **User Authentication:** Secure access with user authentication and authorization.
-- **Recording:** Record video meetings for future reference.
-- **Customizable Settings:** Tailor your meeting experience with various settings.
-- **Responsive Design:** Works on both desktop and mobile devices.
+- **Real-time Video Conferencing:** Connect with others through high-quality video and audio calls. (Almost completed)
+- **Chat Integration:** Send text messages to participants during a video call. (Need to be implemented)
+- **Screen Sharing:** Share your screen to present slides, documents, or anything else. (Some fixes are required)
+- **User Authentication:** Secure access with user authentication and authorization. (Need to be implemented)
+- **Recording:** Record video meetings for future reference. (Need to be implemented)
+- **Customizable Settings:** Tailor your meeting experience with various settings. (Need to be implemented)
 
 ## Getting Started
 
